@@ -1,0 +1,23 @@
+<html>
+<head>
+	<title>iphone switch</title>
+	<link rel="stylesheet" type="text/css" href="yn_switch.css">
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.8.1.min.js"></script>
+	<script type="text/javascript" src="yn_switch.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			options = {"y_text":"I","n_text":"0"};
+			yn_switch($('#switch_with_optios'),options);
+			yn_switch($('#switch'));
+			yn_switch($('#switch_checked'));
+		});
+	</script>
+</head>
+<body>
+
+	<input id="switch" type="checkbox">
+	<input id="switch_with_optios" type="checkbox">
+	<input id="switch_checked" type="checkbox" checked="checked">
+
+</body>
+</html>
