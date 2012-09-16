@@ -21,7 +21,7 @@ without Options:
 	</script>
 	<input id="switch" type="checkbox">
 	
-with Options
+with Options:
 
 	<script>
 		$(function(){
@@ -31,3 +31,7 @@ with Options
 	</script>
 	<input id="switch" type="checkbox">
 	
+	
+### Demo
+
+[Demo](http://www.banana-daquiri.de/demo/yn_switch/ "Demo")
