@@ -34,4 +34,4 @@ with Options:
 	
 ### Demo
 
-[Demo](http://www.banana-daquiri.de/demo/yn_switch/ "Demo")
+[Demo](http://www.andysoiron.de/demo/yn_switch/ "Demo")
